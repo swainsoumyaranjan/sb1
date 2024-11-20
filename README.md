@@ -37,8 +37,7 @@ The goal is to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/GIF-Ranking-Automation.git
-   cd GIF-Ranking-Automation
+  cd GIF-Ranking-Automation
    ```
 
 2. Set up the backend:
